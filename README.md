@@ -35,7 +35,7 @@
 
 | Proyecto | Descripción | Stack | Demo |
 | -------- | ----------- | ----------- | ---- |
-| 🏋️‍♀️ **Tienda Gym** | Ecommerce con carrito, detalle de productos y diseño responsive | React, Tailwind, Context API | [Ver demo]([https://gym-e-commerce.netlify.app/]) |
+| 🏋️‍♀️ **Tienda Gym** | Ecommerce con carrito, detalle de productos y diseño responsive | React, Tailwind, Context API | [Ver demo][https://gym-e-commerce.netlify.app](https://gym-e-commerce.netlify.app)) |
 | 🧠 **Rutinas Fit** | App con planes de entrenamiento por objetivo | Node.js, Express, React | *En desarrollo* |
 | 📊 **Data Dashboard** | Dashboard interactivo para analizar datasets con filtros y gráficos | Python, Plotly, Dash | *Pronto online* |
 
