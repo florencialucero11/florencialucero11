@@ -36,7 +36,7 @@
 | Proyecto | Descripción | Stack | Demo |
 | -------- | ----------- | ----------- | ---- |
 | 🏋️‍♀️ **Tienda Gym** | Ecommerce con carrito, detalle de productos y diseño responsive | React, Tailwind, Context API | [Ver demo][https://gym-e-commerce.netlify.app](https://gym-e-commerce.netlify.app)) |
-| ✨ ** ImpulsáTuVida ** | app con IA para alcanzar metas personales, genera planes personalizados para alcazar tus objetivos| React, Tailwind y la integración de IA (OpenRouter), FastAPI | [Ver demo][https://gym-e-commerce.netlify.app/] 
+| ✨ **ImpulsáTuVida** | app con IA para alcanzar metas personales, genera planes personalizados para alcazar tus objetivos| React, Tailwind y la integración de IA (OpenRouter), FastAPI | [Ver demo][https://gym-e-commerce.netlify.app/] 
 | 🧠 **Rutinas Fit** | App con planes de entrenamiento por objetivo | Node.js, Express, React | *En desarrollo* |
 | 📊 **Data Dashboard** | Dashboard interactivo para analizar datasets con filtros y gráficos | Python, Plotly, Dash | *Pronto online* |
 
