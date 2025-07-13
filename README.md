@@ -14,7 +14,7 @@
 - 🌱 Actualmente aprendiendo más sobre **React, Node.js y Ciencia de Datos**  
 - 🎯 Mi meta: trabajar 100% remoto como desarrolladora web y educadora en tecnología  
 - 🧩 Creo contenido sobre programación, mindset y herramientas tech  
-- 🧒 También soy mamá, así que valoro el código limpio *y las siestas largas*
+- 🧒 También soy mamá, así que valoro el código limpio *y ese minuto de descanso*
 
 ---
 
@@ -36,6 +36,7 @@
 | Proyecto | Descripción | Stack | Demo |
 | -------- | ----------- | ----------- | ---- |
 | 🏋️‍♀️ **Tienda Gym** | Ecommerce con carrito, detalle de productos y diseño responsive | React, Tailwind, Context API | [Ver demo][https://gym-e-commerce.netlify.app](https://gym-e-commerce.netlify.app)) |
+| ✨ ** ImpulsáTuVida ** app con IA para alcanzar metas personales ✨🧠 |  React, Tailwind y la integración de IA (OpenRouter), FastAPI | [Ver demo][https://gym-e-commerce.netlify.app/] 
 | 🧠 **Rutinas Fit** | App con planes de entrenamiento por objetivo | Node.js, Express, React | *En desarrollo* |
 | 📊 **Data Dashboard** | Dashboard interactivo para analizar datasets con filtros y gráficos | Python, Plotly, Dash | *Pronto online* |
 
@@ -53,13 +54,13 @@
 ### 🤝 Conectá conmigo
 
 <div align="center">
-  <a href="https://linkedin.com/in/tuusuario" target="_blank">
+  <a href="https://linkedin.com/in/florencialucerodeva" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:florencia@tucorreo.com">
+  <a href="mailto:florenciadevamatias@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/TU_USUARIO_GITHUB">
+  <a href="https://github.com/florencialucero11">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
