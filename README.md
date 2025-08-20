@@ -12,10 +12,15 @@
 ### 🚀 Sobre mí
 
 💻 Desarrolladora Fullstack con experiencia en proyectos web usando React, Node.js, SQL y APIs REST.
+
 🌱 Actualmente ampliando conocimientos en PHP con Laravel para fortalecer el stack backend.
+
 🎯 Busco integrarme a equipos donde pueda aportar soluciones, aprender constantemente y crecer profesionalmente.
+
 📍 Radicada en La Plata, con total disponibilidad para mudarme.
+
 🧒 También soy mamá, lo que me enseñó a valorar la organización, el trabajo en equipo y la importancia de un código limpio y claro.
+
 ---
 
 ### 🛠️ Tecnologías que manejo
@@ -27,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/PHP.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/php.svg" width="40px" />
   
 </div>
 
