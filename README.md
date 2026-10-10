@@ -60,6 +60,24 @@ I enjoy exploring both frontend and backend technologies, working with APIs and 
 
 ## 🚀 Featured Projects
 
+### 📝 Mini CMS — Content Management System
+
+A full-stack content management application focused on backend development and API integration.
+
+**Key features:**
+- REST API development with Python and FastAPI.
+- GraphQL integration using Strawberry.
+- CRUD operations for article management.
+- JSON-based data handling.
+- Dynamic frontend built with HTML, CSS, and JavaScript.
+- Docker configuration for backend containerization.
+
+**Tech stack:** Python · FastAPI · Strawberry GraphQL · JavaScript · HTML5 · CSS3 · JSON · Docker
+
+🔗 **[Explore the Mini CMS repository](https://github.com/florencialucero11/mini-cms)**
+
+---
+
 ### 🧠 AI Resume Analyzer
 
 An application in development focused on exploring AI-powered resume analysis.
