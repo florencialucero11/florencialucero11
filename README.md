@@ -1,77 +1,124 @@
-<h1 align="center">Hola 👋, soy Florencia Lucero Deva</h1>
-<h3 align="center">💻 Fullstack Developer | 🧠 Creadora de contenido Tech </h3>
+<h1 align="center">Hi 👋, I'm Florencia Lucero Deva</h1>
+
+<h3 align="center">
+  Full-Stack Developer | Web Development & AI
+</h3>
 
 <p align="center">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
-
-
+  Building web applications, exploring AI, and solving real-world problems through code.
 </p>
-
----
-
-### 🚀 Sobre mí
-
-💻 Desarrolladora Fullstack con experiencia en proyectos web usando React, Node.js, SQL y APIs REST.
-
-🌱 Actualmente ampliando conocimientos en PHP con Laravel para fortalecer el stack backend.
-
-🎯 Busco integrarme a equipos donde pueda aportar soluciones, aprender constantemente y crecer profesionalmente.
-
-📍 Radicada en La Plata, con total disponibilidad para mudarme.
-
-🧒 También soy mamá, lo que me enseñó a valorar la organización, el trabajo en equipo y la importancia de un código limpio y claro.
-
----
-
-### 🛠️ Tecnologías que manejo
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php.svg" width="40px" />
-  
-</div>
-
----
-
-### 🛍️ Proyectos destacados
-
-| Proyecto | Descripción | Stack | Demo |
-| -------- | ----------- | ----------- | ---- |
-| 🏋️‍♀️ **Tienda Gym** | Ecommerce con carrito, detalle de productos y diseño responsive | React, Tailwind, Context API | [Ver demo][https://gym-e-commerce.netlify.app](https://gym-e-commerce.netlify.app)) |
-| ✨ **ImpulsáTuVida** | app con IA para alcanzar metas personales, genera planes personalizados para alcazar tus objetivos| React, Tailwind y la integración de IA (OpenRouter), FastAPI | [Ver demo][https://gym-e-commerce.netlify.app/] 
-| 🧠 **Rutinas Fit** | App con planes de entrenamiento por objetivo | Node.js, Express, React | *En desarrollo* |
-| 📊 **Data Dashboard** | Dashboard interactivo para analizar datasets con filtros y gráficos | Python, Plotly, Dash | *Pronto online* |
-
----
-
-### 📈 Stats de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=florencialucero11&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=florencialucero11&theme=tokyonight" width="48%" />
-</p>
-
----
-
-### 🤝 Conectá conmigo
-
-<div align="center">
-  <a href="https://linkedin.com/in/florencialucerodeva" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/florencialucero11">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/florencialucerodeva/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:florenciadevamatias@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-00E5D4?style=for-the-badge&logo=gmail&logoColor=181717" alt="Email"/>
   </a>
-  <a href="https://github.com/florencialucero11">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
+</p>
 
 ---
 
-💬 *Gracias por visitar mi perfil. ¡Construyamos algo genial juntas/os!*
+## 👩‍💻 About Me
+
+I'm a developer passionate about building useful web applications and continuously improving my software development skills.
+
+I enjoy exploring both frontend and backend technologies, working with APIs and databases, and experimenting with AI-powered solutions.
+
+- 🚀 Building full-stack projects to solve real-world problems.
+- 🧠 Exploring AI integrations and intelligent applications.
+- 🔧 Improving my skills in backend development, databases, and software testing.
+- 🌱 Continuously learning through hands-on projects.
+- 🎯 Open to opportunities where I can contribute, collaborate, and grow as a developer.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" alt="Frontend technologies"/>
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgres,mysql" alt="Backend and database technologies"/>
+</p>
+
+### Tools & Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Development tools"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 AI Resume Analyzer
+
+An application in development focused on exploring AI-powered resume analysis.
+
+**Technologies:** React / Next.js, Python, FastAPI.
+
+[View Repository](https://github.com/florencialucero11)
+
+### 🌱 ImpulsáTuVida
+
+A personal productivity project exploring AI-assisted planning and personalized goal-setting.
+
+**Technologies:** Next.js / React, FastAPI, AI integration.
+
+[Explore Project](https://github.com/florencialucero11)
+
+### 🏋️ GymAccess
+
+A gym management application focused on web development, authentication, and database integration.
+
+**Technologies:** React, Node.js, Express, PostgreSQL.
+
+[Explore Project](https://github.com/florencialucero11)
+
+> Project descriptions reflect their intended goals. Check each repository for the current implementation status, setup instructions, and available functionality.
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=florencialucero11&show_icons=true&hide_border=true&title_color=00E5D4&icon_color=00E5D4&text_color=E6EDF3&bg_color=0D1117"
+    alt="Florencia's GitHub statistics"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=florencialucero11&hide_border=true&ring=00E5D4&fire=00E5D4&currStreakLabel=00E5D4&background=0D1117&sideLabels=E6EDF3&dates=8B949E"
+    alt="GitHub contribution streak"
+  />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in connecting with developers, collaborating on projects, and exploring opportunities in software development.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/florencialucerodeva/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:florenciadevamatias@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Me-00E5D4?style=for-the-badge&logo=gmail&logoColor=181717" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Learning by building. Growing through collaboration. Creating with purpose.</i>
+</p>
